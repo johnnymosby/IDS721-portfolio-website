@@ -25,6 +25,3 @@ jobs:
           bucket: ${{ secrets.S3_BUCKET }}
           private: true
           bucket-region: us-east-2
-          # Use the next two only if you have created a CloudFront distribution
-          dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
-          invalidation: /

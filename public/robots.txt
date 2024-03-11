@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://ruslanbasyrov.com/sitemap.xml
+Sitemap: http://ruslanbasyrov.com/sitemap.xml
